@@ -1,0 +1,4 @@
+lisset.MainActivity, lisset;md50c6b14b82285b8a9dba7d8e3920b0102.MainActivity
+lisset.MainActivity, lisset, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50c6b14b82285b8a9dba7d8e3920b0102.MainActivity
+lisset.MainActivity;md50c6b14b82285b8a9dba7d8e3920b0102.MainActivity
+lisset.MainActivity;md50c6b14b82285b8a9dba7d8e3920b0102.MainActivity
